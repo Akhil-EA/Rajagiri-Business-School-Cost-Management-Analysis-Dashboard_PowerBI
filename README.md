@@ -1,4 +1,4 @@
-# Akhil-EA-Akhil-EA-Rajagiri-Business-School-Cost-Management-Analysis-Dashboard_PowerBI
+# Rajagiri-Business-School-Cost-Management-Analysis-Dashboard_PowerBI
 This project is an interactive Power BI dashboard that applies cost management accounting principles to the audited financial statements of Rajagiri Business School. The dashboard provides a clear, interactive view of the institution's financial health, with a specific focus on calculating and visualizing income and expenditure per student.
 
 
